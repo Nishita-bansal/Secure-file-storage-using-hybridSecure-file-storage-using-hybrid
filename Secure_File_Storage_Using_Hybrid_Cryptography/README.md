@@ -29,6 +29,3 @@ Step 3: Visit the localhost on your browser</br>
 Step 4: Enjoy😉😉
 
 <br>
-
-**IF YOU ARE INTERESTED IN COLLABORATING TO IMPROVE THIS PROJECT FEEL FREE TO CONTACT ME :**<br>
-**OM AGRAWAL : recruitomagrawal.gehu@gmail.com**
